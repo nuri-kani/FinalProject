@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+.RegistrationPage_wrapper {
+    margin: 100px auto;
+    padding: 40px;
+    width: 600px;
+    
+    border-radius: 5px;
+    box-shadow: 0 0 7px 2px #afdafc;
+    
+}
+.gender {
+    display: flex;
+    justify-content:space-between;
+    width: 200px;
+}

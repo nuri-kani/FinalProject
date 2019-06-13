@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+.header {
+    margin: 0;
+    background-color: #ccc;
+    height: 100px;
+}
+.btn_header{
+    background-color: #ccc;
+    margin: 20px 200px;
+    border: 1px solid #2F4F4F;
+    color: #2F4F4F;
+}
+.tableGroup {
+    margin: 100px auto;
+    width: 1200px;
+}
